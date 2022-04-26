@@ -1,0 +1,53 @@
+{
+  "Etat": [
+    {
+      "colonnes": ["COLONNE 1\n\u00d7"],
+      "taches": ["tache1"],
+      "dates": ["2022-04-09"],
+      "heures_debut": ["00:59"],
+      "heures_fin": ["01:58"]
+    },
+    {
+      "colonnes": ["COLONNE 1\n\u00d7"],
+      "taches": ["tache2"],
+      "dates": ["2022-04-09"],
+      "heures_debut": ["01:00"],
+      "heures_fin": ["01:01"]
+    },
+    {
+      "colonnes": ["COLONNE 1\n\u00d7", "COLONNE 2\n\u00d7"],
+      "taches": ["tache2"],
+      "dates": ["2022-04-09"],
+      "heures_debut": ["01:00"],
+      "heures_fin": ["01:01"]
+    },
+    {
+      "colonnes": ["COLONNE 1\n\u00d7", "COLONNE 2\n\u00d7"],
+      "taches": [],
+      "dates": [],
+      "heures_debut": [],
+      "heures_fin": []
+    },
+    {
+      "colonnes": ["COLONNE 1\n\u00d7", "COLONNE 2\n\u00d7"],
+      "taches": ["tache3", "tache4"],
+      "dates": ["2022-04-09", "2022-04-09"],
+      "heures_debut": ["01:17", "01:18"],
+      "heures_fin": ["01:18", "01:19"]
+    },
+    {
+      "colonnes": ["COLONNE 1\n\u00d7"],
+      "taches": ["cvvbb", "zsdfghj"],
+      "dates": ["2022-04-10", "2022-04-10"],
+      "heures_debut": ["00:14", "00:17"],
+      "heures_fin": ["00:15", "00:18"]
+    },
+    {
+      "colonnes": ["COLONNE 1\n\u00d7", "COLONNE 2\n\u00d7"],
+      "taches": ["cvvbb", "zsdfghj"],
+      "dates": ["2022-04-10", "2022-04-10"],
+      "heures_debut": ["00:14", "00:17"],
+      "heures_fin": ["00:15", "00:18"]
+    }
+  ]
+}
